@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron{
+    background-color: #e9e9e9;
+}
+
+.findOutMore{
+    background-color: aqua;
+    margin: 0 auto;
+}
