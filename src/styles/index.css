@@ -13,9 +13,21 @@
 
 .jumbotroncss{
     background-color: #e9e9e9;
+    @media screen and (max-width: 459px) {
+        .mobile-space {margin:30px 15px 30px 15px;}
+        }
 }
 
-.findOutMore{
-    background-color: aqua;
-    margin: 0 auto;
+
+@media screen and (max-width: 459px) {
+    .mobile-space {margin:30px 15px 30px 15px;}
+    }
+
+a {
+    color: #70caeb;
+    font-weight: 500;
+}
+
+a:hover{
+    color: #a7eb70;
 }

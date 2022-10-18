@@ -17,11 +17,11 @@ ReactDOM.render(<Jumbotron />, document.querySelector("#jumbotron"));
 
 ReactDOM.render(
 	<Card
-		title="Bob Dylan"
+		title="Card title"
 		imageUrl="https://via.placeholder.com/500x325.png"
-		buttonLabel="Go to wikipedia"
-		buttonUrl="https://en.wikipedia.org/wiki/Bob_Dylan"
-		description="Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter."
+		buttonLabel="Find Out More!"
+		buttonUrl="#"
+		description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
 	/>,
 	document.querySelector("#card0")
 );
@@ -29,33 +29,33 @@ ReactDOM.render(
 
 ReactDOM.render(
 	<Card
-		title="Bob Dylan"
+		title="Card title"
 		imageUrl="https://via.placeholder.com/500x325.png"
-		buttonLabel="Go to wikipedia"
-		buttonUrl="https://en.wikipedia.org/wiki/Bob_Dylan"
-		description="Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter."
+		buttonLabel="Find Out More!"
+		buttonUrl="#"
+		description="Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu feugiat.  Tempus imperdiet nulla malesuada. "
 	/>,
 	document.querySelector("#card1")
 );
 
 ReactDOM.render(
 	<Card
-		title="Bob Dylan"
+		title="Card title"
 		imageUrl="https://via.placeholder.com/500x325.png"
-		buttonLabel="Go to wikipedia"
-		buttonUrl="https://en.wikipedia.org/wiki/Bob_Dylan"
-		description="Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter."
+		buttonLabel="Find Out More!"
+		buttonUrl="#"
+		description="Quis viverra nibh cras pulvinar mattis nunc sed blandit libero. Vestibulum lorem sed risus ultricies tristique."
 	/>,
 	document.querySelector("#card2")
 );
 
 ReactDOM.render(
 	<Card
-		title="Bob Dylan"
+		title="Card title"
 		imageUrl="https://via.placeholder.com/500x325.png"
-		buttonLabel="Go to wikipedia"
-		buttonUrl="https://en.wikipedia.org/wiki/Bob_Dylan"
-		description="Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter."
+		buttonLabel="Find Out More!"
+		buttonUrl="#"
+		description="Justo eget magna fermentum iaculis. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant."
 	/>,
 	document.querySelector("#card3")
 );
