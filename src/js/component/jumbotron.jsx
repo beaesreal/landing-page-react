@@ -3,7 +3,7 @@ import React from "react";
 //create your first component
 const Jumbotron = () => {
 	return (
-        <div className="container p-4 jumbotroncss">
+        <div className="container p-4 jumbotroncss ">
         <div className="jumbotron">
         <h1 className="display-4">
             A Warm Welcome!
